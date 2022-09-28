@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Tom Holland
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Diploma in IT
-- 💞️ I’m looking to collaborate on open source project s
-- 📫 How to reach me (don't reach me)
+### Hi there 👋
 
-<!---
-tom-786/tom-786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I'm a Tom Holland working in my own world.
+
+##### NOW
+
+- 🇵🇹 Planing the "Tuga-Co-Op";
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Telegram Bot**
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.c`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Git Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 📫 Reach me: 
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter
